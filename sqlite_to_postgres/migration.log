@@ -1,0 +1,15 @@
+2024-12-09 23:00:39,079 ERROR:Ошибка при переносе данных: __main__.Genre() argument after ** must be a mapping, not tuple
+2024-12-09 23:00:39,080 CRITICAL:Не удалось выполнить миграцию данных: __main__.Genre() argument after ** must be a mapping, not tuple
+2024-12-09 23:02:15,905 ERROR:Ошибка при переносе данных: __init__() got an unexpected keyword argument 'created_at'
+2024-12-09 23:02:15,905 CRITICAL:Не удалось выполнить миграцию данных: __init__() got an unexpected keyword argument 'created_at'
+2024-12-09 23:08:30,714 ERROR:Ошибка при переносе данных: No item with that key
+2024-12-09 23:08:30,715 CRITICAL:Не удалось выполнить миграцию данных: No item with that key
+2024-12-09 23:32:28,650 ERROR:Ошибка при переносе данных: No item with that key
+2024-12-09 23:32:28,650 CRITICAL:Не удалось выполнить миграцию данных: No item with that key
+2024-12-09 23:35:10,298 ERROR:Ошибка при переносе данных: 'sqlite3.Row' object has no attribute 'get'
+2024-12-09 23:35:10,298 CRITICAL:Не удалось выполнить миграцию данных: 'sqlite3.Row' object has no attribute 'get'
+2024-12-09 23:40:08,565 ERROR:Ошибка при переносе данных: 'sqlite3.Row' object has no attribute 'get'
+2024-12-09 23:40:08,565 CRITICAL:Не удалось выполнить миграцию данных: 'sqlite3.Row' object has no attribute 'get'
+2024-12-09 23:45:13,078 ERROR:Ошибка при переносе данных: 'sqlite3.Row' object has no attribute 'get'
+2024-12-09 23:45:13,078 CRITICAL:Не удалось выполнить миграцию данных: 'sqlite3.Row' object has no attribute 'get'
+2024-12-09 23:47:42,306 INFO:Данные успешно перенесены из SQLite в PostgreSQL.
